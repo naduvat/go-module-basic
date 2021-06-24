@@ -1,3 +1,7 @@
+Simple GO module example using two modules and a main app which uses both the module. 
+
+Detailed steps captured under each subdirectory 
+
 Directory structure from workspace root "go-module-basic"
 
 go-module-basic
